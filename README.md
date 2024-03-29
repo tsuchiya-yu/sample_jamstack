@@ -2,8 +2,8 @@
 jamstackを試すためのサンプルリポジトリです。  
 SvelteKitのadapter-staticを使用しています。
 
-jamstackを端的に説明した図
-![jamstackとは](https://images.blog.microcms.io/assets/f5d83e38f9374219900ef1b0cc4d85cd/d15fa6674ef8481a968963c7b24dc4ba/figure4.png)
+jamstackを端的に説明した図  
+![jamstackとは](https://images.blog.microcms.io/assets/f5d83e38f9374219900ef1b0cc4d85cd/d15fa6674ef8481a968963c7b24dc4ba/figure4.png)  
 出典 https://blog.microcms.io/jamstack-introduction/
 
 ## 環境構築
@@ -16,3 +16,7 @@ jamstackを端的に説明した図
 2. `npm run build`でビルド
 3. `npm run preview`で結果を確認できるようにする
 4. http://localhost:4173/ にアクセス！
+
+## その他
+vercelで実際にホスティングしてみました  
+https://sample-jamstack-7pktukpq6-tsuchiya-yus-projects.vercel.app/
