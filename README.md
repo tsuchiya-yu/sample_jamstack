@@ -18,5 +18,8 @@ jamstackを端的に説明した図
 4. http://localhost:4173/ にアクセス！
 
 ## その他
-vercelで実際にホスティングしてみました  
+ホスティングはvercelを使用しました  
 https://sample-jamstack-7pktukpq6-tsuchiya-yus-projects.vercel.app/
+
+CMSはnewtを使用しました  
+https://www.newt.so/
